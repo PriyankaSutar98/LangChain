@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: Rag
+Version: 0.1.0
+Summary: A basic Python project
+Author-email: Your Name <you@example.com>
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: qdrant-client
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers
+Requires-Dist: langchain
+Requires-Dist: langchain-huggingface
+Requires-Dist: langchain-qdrant
+Requires-Dist: langchain-groq
+Requires-Dist: langchain-text-splitters

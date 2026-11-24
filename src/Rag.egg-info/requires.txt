@@ -1,0 +1,9 @@
+qdrant-client
+requests
+python-dotenv
+sentence-transformers
+langchain
+langchain-huggingface
+langchain-qdrant
+langchain-groq
+langchain-text-splitters
